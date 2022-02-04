@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tavo8\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tavo8\\.nuget\\packages"
+    ]
+  }
+}
